@@ -1,0 +1,10 @@
+{
+    "name": "Simple",
+    "autoload": {
+        "psr-4": {
+            "Simple\\": "simple",
+            "Controllers\\": "app/Controllers",
+            "Services\\": "app/Services"
+        }
+    }
+}
